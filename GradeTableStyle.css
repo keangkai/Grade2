@@ -1,0 +1,20 @@
+
+#GPATable {
+  width: 100%
+
+}
+#CourseID,#CourseName,#Credit,#Grade {
+  background-color: rgb(255, 254, 136);
+  border-style: :  solid none;
+  padding: 5px;
+  text-align: center;
+}
+
+tr {
+  border-style: : 1px solid none;
+  background-color: rgb(255, 86, 71);
+  text-align: center;
+
+}
+
+

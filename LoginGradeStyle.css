@@ -1,0 +1,47 @@
+
+	body{
+		background-color:#b3d9ff;
+	}
+	#intro {
+		font-size: 20px;
+		color: #a6a6a6;
+		font-family: Arial;
+		text-transform: uppercase;
+		text-align: center;
+		margin-top: 150px;
+		text-shadow:1px 1px 0 #333333
+	}
+	#logingrade{
+		border-style: outset;
+		padding: 50px;
+  		text-align: center;
+  		font-family: Arial;
+  		font-weight: bold;
+  		margin: auto;
+    	width: 30%;
+    	margin-top: 0px;
+    	background-color:#ecb3ff;
+	}
+
+	#usname , #psword {
+		padding: 12px 20px;
+	    margin: 8px 0;
+	    display: inline-block;
+	    border: 1px solid #ccc;
+	    border-radius: 4px;
+	    box-sizing: border-box;
+	}
+
+	#btlogin {
+		background-color: #4CAF50; 
+	    border: none;
+	    color: white;
+	    padding: 10px 27px;
+	    text-align: center;
+	    text-decoration: none;
+	    display: inline-block;
+	    font-size: 16px;
+	    margin: 4px 2px;
+	    cursor: pointer;
+	}
+
